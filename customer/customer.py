@@ -19,7 +19,7 @@ self.phone = phone
 def __str__(self):
 """This method is run when Python tries
 to cast the object to a string. Return
-this string when using print(), etc.
+this string when using print(), etc..
 """
 return self.name # special method
 
